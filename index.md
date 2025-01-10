@@ -1,3 +1,20 @@
 # H1 Header
 
-![Github Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/800px-GitHub_Invertocat_Logo.svg.png)
+![Github Image](https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png/revision/latest/thumbnail/width/360/height/360?cb=20231201024220)
+
+### Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skill/Projects/recipe-repository/.git/
+```
+
+### Example 2
+``` C
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello World! \n");
+  return 0;
+}
+```
