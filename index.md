@@ -1,6 +1,6 @@
 # H1 Header
 
-![Github Image](https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png/revision/latest/thumbnail/width/360/height/360?cb=20231201024220)
+![Github Image](https://cdn-icons-png.flaticon.com/256/25/25231.png)
 
 ### Example 1
 ```
@@ -22,3 +22,8 @@ int main()
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+
+### Documentation
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
